@@ -62,5 +62,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## :email: Contact
 If you have any questions, suggestions, or concerns, please feel free to open an issue in the repository or reach out to the project maintainers via email:
 
-* yourname@example.com
-* anothercontributor@example.com
+* info@societassapiens.org
